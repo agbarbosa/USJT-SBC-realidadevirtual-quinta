@@ -107,8 +107,6 @@ A metodologia mais simples para este trabalho e o **MVP jogavel por marcos**:
 5. **Incrementos semanais:** cada entrega adiciona uma funcao clara ao jogo.
 6. **Polimento no final:** audio, UI, efeitos e materiais entram depois que o jogo ja funciona.
 
-Essa metodologia facilita o acompanhamento do professor e ajuda os grupos a manterem foco em um jogo pequeno, completo e demonstravel.
-
 ## Arquivos deste pacote
 
 - [roteiro-alunos.md](roteiro-alunos.md): roteiro que pode ser enviado diretamente aos estudantes.
