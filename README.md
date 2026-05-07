@@ -76,7 +76,7 @@ Cronograma definido em **06/05/2026**, considerando aulas as quintas-feiras. O t
 
 | Data | Aula | Marco | Entrega | Evidencia |
 |------|------|-------|---------|-----------|
-| 07/05/2026 | Aula 1 | Ideia e escopo | Projeto criado, GDD reduzido e padrao tecnico definido | print do Unity + GDD |
+| 07/05/2026 | Aula 1 | Ideia, escopo e ferramentas | Projeto criado, GDD reduzido, padrao tecnico definido, acesso ao Unity Cloud Studio e exploracao do Mixamo | print do Unity + GDD + print das ferramentas |
 | 14/05/2026 | Aula 2 | Prototipo de movimento | Cena 3D com jogador, camera, movimento e colisao basica | video curto no Editor |
 | 21/05/2026 | Aula 3 | Primeira validacao Android | Primeiro build Android do projeto | APK ou video no celular |
 | 28/05/2026 | Aula 4 | Regra principal | Objetivo, pontuacao/progresso e condicao de vitoria | video de gameplay |
@@ -116,3 +116,4 @@ Essa metodologia facilita o acompanhamento do professor e ajuda os grupos a mant
 - [plano-aulas-unity-mobile.md](plano-aulas-unity-mobile.md): sequencia de aulas/labs para conduzir a trilha Unity 3D + Mobile.
 - [metodologia-mvp-jogavel.md](metodologia-mvp-jogavel.md): descricao da metodologia de trabalho adotada.
 - [roteiro-build-android.md](roteiro-build-android.md): passo a passo completo para gerar, instalar e testar o APK Android.
+- [roteiro-unity-cloud-mixamo.md](roteiro-unity-cloud-mixamo.md): roteiro da Aula 1 para Unity Cloud Studio e Mixamo.

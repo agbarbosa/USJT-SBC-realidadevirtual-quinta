@@ -75,6 +75,9 @@ O grupo deve entregar:
 - condicao de vitoria;
 - condicao de derrota, se houver;
 - rascunho da tela ou mapa da fase.
+- print do projeto Unity criado;
+- print do acesso ao Unity Cloud Studio;
+- print de um personagem ou animacao escolhida no Mixamo.
 
 Modelo rapido:
 
@@ -89,6 +92,8 @@ Como perde:
 Controles:
 Elementos 3D principais:
 Responsavel pelo build Android:
+Personagem/personagens previstos:
+Animacao inicial prevista:
 ```
 
 ## Entrega 2: Movimento 3D
