@@ -2,13 +2,13 @@
 
 Sequencia de aulas para conduzir a producao de um jogo 3D em Unity com validacao em smartphone Android.
 
-## Aula 1: Escopo, instalacao e projeto minimo
+## Aula 1: Escopo, instalacao, Unity Cloud Studio e Mixamo
 
 **Data:** 07/05/2026
 
 ### Objetivo
 
-Garantir que cada grupo tenha uma ideia pequena, clara e tecnicamente possivel.
+Garantir que cada grupo tenha uma ideia pequena, clara e tecnicamente possivel, conheca o fluxo geral do Unity Cloud Studio e explore o Mixamo como ferramenta para criacao de personagens 3D animados.
 
 ### Em aula
 
@@ -18,6 +18,9 @@ Garantir que cada grupo tenha uma ideia pequena, clara e tecnicamente possivel.
 - Apresentar a estrutura minima do GDD.
 - Demonstrar criacao de projeto `3D (Built-in Render Pipeline)`.
 - Estabelecer o `Built-in Render Pipeline` como padrao da disciplina.
+- Apresentar o Unity Cloud Studio: https://cloud.unity.com/studio
+- Apresentar o Mixamo para personagens e animacoes: https://www.mixamo.com
+- Demonstrar a escolha de um personagem no Mixamo e o download de uma animacao.
 
 ### Atividade da semana
 
@@ -25,6 +28,11 @@ Garantir que cada grupo tenha uma ideia pequena, clara e tecnicamente possivel.
 - Criar projeto usando o template `3D (Built-in Render Pipeline)`.
 - Criar `MainScene`.
 - Entregar GDD reduzido.
+- Acessar o Unity Cloud Studio com a conta Unity.
+- Acessar o Mixamo com conta Adobe ou login disponivel.
+- Escolher um personagem no Mixamo e registrar um print.
+- Escolher uma animacao no Mixamo e registrar um print.
+- Ler o roteiro [roteiro-unity-cloud-mixamo.md](roteiro-unity-cloud-mixamo.md).
 
 ## Aula 2: Cena 3D, jogador e camera
 
