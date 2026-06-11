@@ -81,9 +81,8 @@ Cronograma definido em **06/05/2026**, considerando aulas as quintas-feiras. O t
 | 21/05/2026 | Aula 3 | Primeira validacao Android | Primeiro build Android do projeto | APK ou video no celular |
 | 28/05/2026 | Aula 4 | Regra principal | Objetivo, pontuacao/progresso e condicao de vitoria | video de gameplay |
 | 04/06/2026 | Aula 5 | Desafio | Obstaculos, inimigo simples, timer ou outro elemento de dificuldade | video vencendo e perdendo |
-| 11/06/2026 | Aula 6 | Interface e feedback | UI minima, audio e feedback visual | video + prints |
-| 18/06/2026 | Aula 7 | Otimizacao mobile | Build atualizado com ajustes de performance | video no celular + checklist de otimizacao |
-| 25/06/2026 | Aula 8 | Entrega final | APK final, video de gameplay, GDD atualizado e creditos | pacote final do grupo |
+| 11/06/2026 | Apresentação A3 | Jogo Pronto | UI minima, audio e feedback visual | apresentação em sala |
+| 18/06/2026 | Apresentação A3 | Jogo Pronto | UI minima, audio e feedback visual | apresentação em sala |
 
 ## Organizacao da producao
 
